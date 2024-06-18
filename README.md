@@ -19,7 +19,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-309-225386.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png" width="200"></td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-swift-21-1175088.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/freepng-512/free-xcode-3521822-2945239.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-xcode-3521822-2945239.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
