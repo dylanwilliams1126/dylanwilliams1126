@@ -1,16 +1,3 @@
-
-<p align="center">
-  <h1 align="center"><a href="https://github.com/achiever0123">SENIOR Full Stack ENGINEER</a></h1>
-
-</p>
-<p align="center">
- 💎 💎 💎 
-</p>
-
-
-<h2>SUMMARY</h2>
-<p>Self-motivated Full Stack developer with hands on experience working on multiple projects. Passionate and hardworking with a penchant for meeting deadlines. Experience includes collaborating in team-driven environments to create high-performance web applications that customers and businesses love.</p>
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
 <table>
   <tr>
