@@ -38,9 +38,9 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-c-9305877-7694076.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td> 
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="100"></td>
   </tr>
   <tr>    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>   
